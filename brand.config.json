@@ -1,0 +1,35 @@
+{
+  "brand_name": "FalconX Traders",
+  "brand_domain": "falconx-bonnie4.vercel.app",
+  "brand_hostname": {
+    "staging": "localhost:3000",
+    "production": "falconx-bonnie4.vercel.app"
+  },
+  "platform": {
+    "name": "FalconX Traders",
+    "description": "Trade Rise/Fall contracts seamlessly with our premium execution platform.",
+    "home_url": "https://vercel.app",
+    "help_centre_url": "https://vercel.app"
+  },
+  "deposit_url": {
+    "staging": "https://vercel.app",
+    "production": "https://vercel.app"
+  },
+  "auth": {
+    "staging": "https://staging-auth.deriv.com",
+    "production": "https://auth.deriv.com",
+    "oauth_scopes": ["trade", "account_manage"],
+    "oauth_redirect_uri_staging": "http://localhost:3000",
+    "oauth_redirect_uri_production": "https://vercel.app",
+    "oauth_app_id": "33GxzDMl0BBmgRdCqhdaD"
+  },
+  "app_id": {
+    "staging": "33GxzDMl0BBmgRdCqhdaD",
+    "production": "33GxzDMl0BBmgRdCqhdaD"
+  },
+  "colors": {
+    "primary": "#ff444f"
+  },
+  "dark_mode": true,
+  "language_switcher": false
+}
